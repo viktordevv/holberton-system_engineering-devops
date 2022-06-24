@@ -2,7 +2,7 @@
 # La vaca lola 3
 i=0
 str="Best School"
-until ((i > 10))
+until ((i > 9))
 do
     echo "$str"
     ((i++))
